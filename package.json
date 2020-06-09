@@ -1,0 +1,28 @@
+{
+  "name": "jest-async-tests",
+  "version": "1.0.0",
+  "description": "jest async test examples for RSS students",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniorunr/jest-async-tests.git"
+  },
+  "author": "uniorunr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniorunr/jest-async-tests/issues"
+  },
+  "homepage": "https://github.com/uniorunr/jest-async-tests#readme",
+  "devDependencies": {
+    "@babel/polyfill": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
+    "jest": "^26.0.1",
+    "jest-fetch-mock": "^3.0.3"
+  },
+  "dependencies": {
+    "toastify-js": "^1.8.0"
+  }
+}
